@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Animals On Earth</string>
+    <string name="title_animal">Animal</string>
+    <string name="title_profile">About</string>
+    <string name="animals_name">Nama Hewan</string>
+    <string name="animals_latin_name">Nama Latin Hewan</string>
+    <string name="animals_description">Deksripsi Binatang</string>
+    <string name="animals_on_earth">Animals On Earth</string>
+    <string name="my_name">Nama Saya</string>
+    <string name="email">email@outlook.com</string>
+    <string name="about">Tentang Saya</string>
+</resources>
